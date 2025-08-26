@@ -1,0 +1,6 @@
+st.set_page_config(
+    page_title="REMINDER MISSION APP",
+    page_icon="🚀",   
+    layout="wide"
+)
+
